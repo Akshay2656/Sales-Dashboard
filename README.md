@@ -3,6 +3,7 @@
 
 This Power BI dashboard provides a comprehensive overview of key sales metrics and insights for Akshay's e-commerce business. It combines various visuals and KPIs to help stakeholders monitor sales performance, customer trends, profitability, and product category distribution at a glance.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **🔑 Tech Stack**
@@ -19,6 +20,7 @@ The dashboard was built using the following tools and technologies:
 
 📂 File Format: .pbix for development and .png for dashboard previews.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **📈 Purpose**
@@ -34,6 +36,7 @@ Understand popular payment modes.
 
 Make data-driven decisions for sales, marketing, and inventory planning.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **✨ Features / Highlights**
@@ -46,6 +49,7 @@ Walkthrough of Key Visuals (Brief): The dashboard includes KPIs, bar charts, col
 
 Business Impact & Insights: Helps stakeholders identify high-value segments, seasonal opportunities, popular products and payment trends, and supports data-driven decision-making for marketing, inventory, and sales strategy.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **📸 Dashboard Screenshot**
