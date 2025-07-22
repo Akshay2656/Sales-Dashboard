@@ -6,7 +6,7 @@ This Power BI dashboard provides a comprehensive overview of key sales metrics a
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**🔑 Tech Stack**
+**🔑 TECH STACK**
 
 The dashboard was built using the following tools and technologies:
 
@@ -23,7 +23,8 @@ The dashboard was built using the following tools and technologies:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**📈 Purpose**
+**📈 PURPOSE**
+
 This dashboard helps the business:
 
 Track total sales, profit, and order trends.
@@ -39,7 +40,7 @@ Make data-driven decisions for sales, marketing, and inventory planning.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**✨ Features / Highlights**
+**✨ FEATURES / HIGHLIGHTS**
 
 Business Problem: The dashboard addresses the need to monitor and analyze e-commerce sales performance across states, customers, product categories, and payment modes.
 
@@ -52,7 +53,7 @@ Business Impact & Insights: Helps stakeholders identify high-value segments, sea
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**📸 Dashboard Screenshot**
+**📸 DASHBOARD SCREENSHOT**
 Below is a snapshot of the Power BI dashboard for quick reference.
 Link - 
 
