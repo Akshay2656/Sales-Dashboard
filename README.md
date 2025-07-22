@@ -1,10 +1,11 @@
 # Sales-Dashboard
-📊 AKSHAY'S ECOMMERCE SALES DASHBOARD
+**📊 AKSHAY'S ECOMMERCE SALES DASHBOARD**
 
 This Power BI dashboard provides a comprehensive overview of key sales metrics and insights for Akshay's e-commerce business. It combines various visuals and KPIs to help stakeholders monitor sales performance, customer trends, profitability, and product category distribution at a glance.
 
 
-🔑 Tech Stack
+
+**🔑 Tech Stack**
 
 The dashboard was built using the following tools and technologies:
 
@@ -19,7 +20,8 @@ The dashboard was built using the following tools and technologies:
 📂 File Format: .pbix for development and .png for dashboard previews.
 
 
-📈 Purpose
+
+**📈 Purpose**
 This dashboard helps the business:
 
 Track total sales, profit, and order trends.
@@ -33,7 +35,8 @@ Understand popular payment modes.
 Make data-driven decisions for sales, marketing, and inventory planning.
 
 
-✨ Features / Highlights
+
+**✨ Features / Highlights**
 
 Business Problem: The dashboard addresses the need to monitor and analyze e-commerce sales performance across states, customers, product categories, and payment modes.
 
@@ -44,7 +47,8 @@ Walkthrough of Key Visuals (Brief): The dashboard includes KPIs, bar charts, col
 Business Impact & Insights: Helps stakeholders identify high-value segments, seasonal opportunities, popular products and payment trends, and supports data-driven decision-making for marketing, inventory, and sales strategy.
 
 
-📸 Dashboard Screenshot
+
+**📸 Dashboard Screenshot**
 Below is a snapshot of the Power BI dashboard for quick reference.
 Link - 
 
