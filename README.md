@@ -42,19 +42,20 @@ Make data-driven decisions for sales, marketing, and inventory planning.
 
 **✨ FEATURES / HIGHLIGHTS**
 
-Business Problem: The dashboard addresses the need to monitor and analyze e-commerce sales performance across states, customers, product categories, and payment modes.
+**Business Problem:** The dashboard addresses the need to monitor and analyze e-commerce sales performance across states, customers, product categories, and payment modes.
 
-Goal of the Dashboard: To provide clear and actionable insights into total sales, profit trends, customer contributions, seasonal patterns, and payment preferences.
+**Goal of the Dashboard:** To provide clear and actionable insights into total sales, profit trends, customer contributions, seasonal patterns, and payment preferences.
 
-Walkthrough of Key Visuals (Brief): The dashboard includes KPIs, bar charts, column charts, and donut charts to showcase metrics like sales by state, profit by month, top customers, category distribution, and payment mode shares.
+**Walkthrough of Key Visuals (Brief):** The dashboard includes KPIs, bar charts, column charts, and donut charts to showcase metrics like sales by state, profit by month, top customers, category distribution, and payment mode shares.
 
-Business Impact & Insights: Helps stakeholders identify high-value segments, seasonal opportunities, popular products and payment trends, and supports data-driven decision-making for marketing, inventory, and sales strategy.
+**Business Impact & Insights:** Helps stakeholders identify high-value segments, seasonal opportunities, popular products and payment trends, and supports data-driven decision-making for marketing, inventory, and sales strategy.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **📸 DASHBOARD SCREENSHOT**
+
 Below is a snapshot of the Power BI dashboard for quick reference.
-Link - 
+Link - https://github.com/Akshay2656/Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
 
 
