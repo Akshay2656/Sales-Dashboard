@@ -58,4 +58,7 @@ Make data-driven decisions for sales, marketing, and inventory planning.
 Below is a snapshot of the Power BI dashboard for quick reference.
 Link - https://github.com/Akshay2656/Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
 
+<img width="1131" height="636" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/0a6af36f-57d8-4090-9abf-54ed684a933e" />
+
+
 
